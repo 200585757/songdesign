@@ -142,20 +142,6 @@ body{
     text-align: center;
 }
 
-.btn {
-    background-color: #05ef05;
-    color: rgb(240, 20, 20);
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-}
-
-.btn:hover {
-    background-color: #13eb1e;
-}
-
 footer{
     font-size: 10px;
     height: 20px;
